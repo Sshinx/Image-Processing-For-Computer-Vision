@@ -23,8 +23,8 @@ Needed : Python 3 with `numpy`, `matplotlib`, `pillow` and `scipy` (for the chec
 ```bash
 pip install numpy scipy matplotlib pillow opencv-python
 
-python src/Image_Processing.py                    # synthetic test image (plane in the sky)
-python src/Image_Processing.py Results/avion.jpg  # your own image
+python src/Image_Processing.py                    # Synthetic Test Image (plane in the sky)
+python src/Image_Processing.py Results/avion.jpg  # Input image
 ```
 
 The script starts with a few checks against SciPy and OpenCV. Then it saves a figure of every step as `resultats.png` in the current folder.
