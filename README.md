@@ -100,7 +100,7 @@ A *true* convolution flips the kernel, so it gives $-\partial I/\partial x$. The
 
 Then come the magnitude, which is the edge strength, and the direction:
 
-$$\|\nabla I\| = \sqrt{G_x^2 + G_y^2}, \qquad \theta = \operatorname{atan2}(G_y, G_x)$$
+$$\|\nabla I\| = \sqrt{G_x^2 + G_y^2}, \qquad \theta = \text{atan2}(G_y, G_x)$$
 
 $G_x$ reacts to **vertical** edges and $G_y$ to **horizontal** ones. In the figure above, red is positive and blue is negative. The gradient is always perpendicular to the edge.
 
