@@ -163,3 +163,14 @@ The clouds only give weak gradients, so the thresholds remove them. The silhouet
 6. OpenCV documentation, [Canny Edge Detection](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html).
 7. NumPy documentation, [`numpy.lib.stride_tricks.sliding_window_view`](https://numpy.org/doc/stable/reference/generated/numpy.lib.stride_tricks.sliding_window_view.html).
 8. SciPy documentation, [`scipy.signal.convolve2d`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.convolve2d.html).
+
+*******
+
+<p align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sshinx/Image-Processing-For-Computer-Vision">
+  <img alt="Followers" src="https://img.shields.io/github/followers/Sshinx?style=social">
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/Sshinx/Image-Processing-For-Computer-Vision?style=social">
+  <img src="https://komarev.com/ghpvc/?username=Sshinx&color=blue">
+</p>
+
+###### Author : *¥Shinx.ssh*.
